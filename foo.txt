@@ -1,3 +1,4 @@
 foo
 this is the good line now
 added a third line
+new feature is going into this release
