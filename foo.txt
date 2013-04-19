@@ -1,2 +1,2 @@
 foo
-added a second line
+added a second line, modified, non-conflicting change with phil_bar branch
