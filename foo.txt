@@ -1,2 +1,2 @@
 foo
-this line should conflict with previous commit
+this is the good line now
